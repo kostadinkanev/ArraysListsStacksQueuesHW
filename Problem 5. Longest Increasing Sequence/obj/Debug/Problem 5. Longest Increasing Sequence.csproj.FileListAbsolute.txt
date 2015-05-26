@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.exe.config
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 5. Longest Increasing Sequence\bin\Debug\Problem_5.Longest_Increasing_Sequence.pdb
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 5. Longest Increasing Sequence\obj\Debug\Problem 5. Longest Increasing Sequence.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 5. Longest Increasing Sequence\obj\Debug\Problem_5.Longest_Increasing_Sequence.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 5. Longest Increasing Sequence\obj\Debug\Problem_5.Longest_Increasing_Sequence.pdb

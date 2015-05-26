@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Sort Array of Numbers", "Problem 1. Sort Array of Numbers\Problem 1. Sort Array of Numbers.csproj", "{387690F4-0BB1-49A2-B0F9-CA7EB0D4116C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Sort Array of Numbers Using Selection Sort", "Problem 2. Sort Array of Numbers Using Selection Sort\Problem 2. Sort Array of Numbers Using Selection Sort.csproj", "{5B65C480-441A-49FA-9560-1AE9954C3BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3.MinMaxAverage", "Problem 3.MinMaxAverage\Problem 3.MinMaxAverage.csproj", "{5F1E206D-FC31-4E76-A0B8-B3FF0F15071D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Sequences of Equal Strings", "Problem 4. Sequences of Equal Strings\Problem 4. Sequences of Equal Strings.csproj", "{147EBB9F-7F8F-4FDC-9D2F-A1E952E15EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 5. Longest Increasing Sequence", "Problem 5. Longest Increasing Sequence\Problem 5. Longest Increasing Sequence.csproj", "{671961E6-A643-4773-8A9B-F2A66C9331EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387690F4-0BB1-49A2-B0F9-CA7EB0D4116C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387690F4-0BB1-49A2-B0F9-CA7EB0D4116C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387690F4-0BB1-49A2-B0F9-CA7EB0D4116C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387690F4-0BB1-49A2-B0F9-CA7EB0D4116C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B65C480-441A-49FA-9560-1AE9954C3BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B65C480-441A-49FA-9560-1AE9954C3BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B65C480-441A-49FA-9560-1AE9954C3BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B65C480-441A-49FA-9560-1AE9954C3BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F1E206D-FC31-4E76-A0B8-B3FF0F15071D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F1E206D-FC31-4E76-A0B8-B3FF0F15071D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F1E206D-FC31-4E76-A0B8-B3FF0F15071D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F1E206D-FC31-4E76-A0B8-B3FF0F15071D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147EBB9F-7F8F-4FDC-9D2F-A1E952E15EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147EBB9F-7F8F-4FDC-9D2F-A1E952E15EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147EBB9F-7F8F-4FDC-9D2F-A1E952E15EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147EBB9F-7F8F-4FDC-9D2F-A1E952E15EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{671961E6-A643-4773-8A9B-F2A66C9331EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671961E6-A643-4773-8A9B-F2A66C9331EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671961E6-A643-4773-8A9B-F2A66C9331EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671961E6-A643-4773-8A9B-F2A66C9331EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

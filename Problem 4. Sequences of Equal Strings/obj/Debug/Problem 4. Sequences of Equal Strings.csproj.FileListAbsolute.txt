@@ -1,0 +1,5 @@
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe.config
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 4. Sequences of Equal Strings\bin\Debug\Problem_4.Sequences_of_Equal_Strings.pdb
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 4. Sequences of Equal Strings\obj\Debug\Problem_4.Sequences_of_Equal_Strings.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 4. Sequences of Equal Strings\obj\Debug\Problem_4.Sequences_of_Equal_Strings.pdb

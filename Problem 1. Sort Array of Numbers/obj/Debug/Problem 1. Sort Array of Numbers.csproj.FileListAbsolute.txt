@@ -1,0 +1,12 @@
+D:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe.config
+D:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\obj\Debug\Problem 1. Sort Array of Numbers.csprojResolveAssemblyReference.cache
+D:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe
+D:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.pdb
+D:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.exe
+D:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.pdb
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe.config
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\obj\Debug\Problem_1.Sort_Array_of_Numbers.pdb
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\bin\Debug\Problem_1.Sort_Array_of_Numbers.pdb
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 1. Sort Array of Numbers\obj\Debug\Problem 1. Sort Array of Numbers.csprojResolveAssemblyReference.cache

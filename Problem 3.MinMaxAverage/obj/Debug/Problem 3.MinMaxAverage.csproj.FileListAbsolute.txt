@@ -1,0 +1,6 @@
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 3.MinMaxAverage\bin\Debug\Problem 3.MinMaxAverage.exe.config
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 3.MinMaxAverage\bin\Debug\Problem 3.MinMaxAverage.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 3.MinMaxAverage\bin\Debug\Problem 3.MinMaxAverage.pdb
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 3.MinMaxAverage\obj\Debug\Problem 3.MinMaxAverage.csprojResolveAssemblyReference.cache
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 3.MinMaxAverage\obj\Debug\Problem 3.MinMaxAverage.exe
+E:\C#\Advanced C# may 2015\ArraysListsStacksQueues\Problem 3.MinMaxAverage\obj\Debug\Problem 3.MinMaxAverage.pdb
